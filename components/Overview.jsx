@@ -190,12 +190,12 @@ const Overview = ({ setIsOpen }) => {
               data-aos-delay="200"
             >
               <div className="w-full md:w-1/2 border-b md:border-b-0 md:border-r border-[#d3be8a] flex flex-col justify-center bg-[#fdfbf7]" style={{ padding: '16px 24px' }}>
-                <p style={{ color: '#7a7a7a', fontSize: '11px', letterSpacing: '1.5px', textTransform: 'uppercase', marginBottom: '4px', fontWeight: '600' }}>Payment Plan &amp; EOI Offer:</p>
-                <h3 style={{ color: '#000242', fontSize: '14px', fontWeight: '700', textTransform: 'uppercase', lineHeight: '1.4' }}>20:80 SUBVENTION PLAN<br/>SAVE ₹7L TO ₹10L ON EOI</h3>
+                <p style={{ color: '#7a7a7a', fontSize: '11px', letterSpacing: '1.5px', textTransform: 'uppercase', marginBottom: '4px', fontWeight: '600' }}>Payment Plan</p>
+                <h3 style={{ color: '#000242', fontSize: '14px', fontWeight: '700', textTransform: 'uppercase', lineHeight: '1.4' }}>20:80 SUBVENTION PLAN</h3>
               </div>
               <div className="w-full md:w-1/2 flex flex-col justify-center bg-[#fdfbf7]" style={{ padding: '16px 24px' }}>
-                <p style={{ color: '#7a7a7a', fontSize: '11px', letterSpacing: '1.5px', textTransform: 'uppercase', marginBottom: '4px', fontWeight: '600' }}>Project Highlights:</p>
-                <h3 style={{ color: '#000242', fontSize: '14px', fontWeight: '700', textTransform: 'uppercase', lineHeight: '1.4' }}>SPACIOUS 2 &amp; 3 BHK HOMES<br/>G + 38 STOREYS | 145 ACRES</h3>
+                <p style={{ color: '#7a7a7a', fontSize: '11px', letterSpacing: '1.5px', textTransform: 'uppercase', marginBottom: '4px', fontWeight: '600' }}>Total Project Area:</p>
+                <h3 style={{ color: '#000242', fontSize: '14px', fontWeight: '700', textTransform: 'uppercase', lineHeight: '1.4' }}>106.66 acres (431.6K sq.m.)</h3>
               </div>
             </div>
 

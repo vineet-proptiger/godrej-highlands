@@ -6,17 +6,14 @@ const F_JOST = 'var(--font-jost), Montserrat, sans-serif'
 const F_SANS = 'var(--font-sans), Open Sans, sans-serif'
 
 const locationLandmarks = [
-  { name: 'National Highway 48', dist: '400 m' },
-  { name: 'Yotta NM1 Corporate Office', dist: '600 m' },
-  { name: 'Chhatrapati Shivaji Maharaj University', dist: '5.1 km' },
-  { name: 'Pulse Multispeciality Hospital', dist: '6.7 km' },
-  { name: 'St. Vincent Pallotti School', dist: '5.6 km' },
-  { name: 'Mohope Railway Station', dist: '5.6 km' },
-  { name: 'NISM Cricket Ground', dist: '7.3 km' },
-  { name: 'Shivganga Waterpark', dist: '10 km' },
-  { name: 'Little World Mall', dist: '22.3 km' },
-  { name: 'Navi Mumbai International Airport', dist: '28.9 km' },
-  { name: 'Chhatrapati Shivaji Maharaj Int. Airport', dist: '53.5 km' },
+  { name: 'Mumbai-Pune Expressway', dist: '2 Mins' },
+  { name: 'Mohape Railway Station', dist: '10 Mins' },
+  { name: 'St. Wilfred High School', dist: '10 Mins' },
+  { name: 'Dhirubhai Ambani Hospital', dist: '12 Mins' },
+  { name: 'D-Mart', dist: '15 Mins' },
+  { name: 'Navi Mumbai International Airport', dist: '15 Mins' },
+  { name: 'MGM Hospital', dist: '18 Mins' },
+  { name: 'Reliance Industries Limited', dist: '30 Mins' },
 ]
 
 const Location = () => {
@@ -140,7 +137,7 @@ const Location = () => {
               justifyContent: 'center',
             }}>
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.3712510297014!2d73.19938247520138!3d18.914954582256673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e840eed12c3d%3A0x60eb4a5c736943f5!2sGodrej%20City%20Panvel%20The%20Highlands!5e0!3m2!1sen!2sin!4v1785393520598!5m2!1sen!2sin" 
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7548.177789466721!2d73.183491!3d18.927459!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e59076441ddf%3A0xf1eaba60d2afc841!2sThe%20Highlands%2C%20Godrej%20City%2C%20Panvel!5e0!3m2!1sen!2sin!4v1786338860305!5m2!1sen!2sin" 
                 className="w-full h-[400px] sm:h-[460px] lg:h-full min-h-[400px]" 
                 style={{ width: '100%', border: 0 }} 
                 allowFullScreen="" 
