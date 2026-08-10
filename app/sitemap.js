@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://godrejcitypanvelhighlands.com'
+  const baseUrl = 'https://www.godrejcityhighlands.com'
   return [
     {
       url: baseUrl,
