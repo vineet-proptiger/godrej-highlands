@@ -33,7 +33,7 @@ export default function PrivacyPolicy() {
                 .privacy-logo { height: 40px; transform-origin: left center; }
               }
             `}</style>
-            <img src={logoImages.tarc} alt="Godrej City Panvel The Highlands" className="privacy-logo" />
+            <img src={logoImages.main} alt="Godrej City Panvel The Highlands" className="privacy-logo" />
           </Link>
           <Link
             href="/"

@@ -526,7 +526,7 @@ const Navbar = ({ setIsOpen }) => {
             
             <li className="navbar-logo">
               <a href="#" className="navbar-brand">
-                <img src={logoImages.tarc} alt="Godrej City Panvel The Highlands" className="nav-logo" />
+                <img src={logoImages.main} alt="Godrej City Panvel The Highlands" className="nav-logo" />
               </a>
             </li>
             
