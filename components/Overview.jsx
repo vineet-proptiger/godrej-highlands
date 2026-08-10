@@ -208,7 +208,7 @@ const Overview = ({ setIsOpen }) => {
             <img 
               src={overviewImage} 
               alt="Godrej City Panvel The Highlands Overview" 
-              className="w-full h-auto rounded-xl shadow-2xl max-w-[550px] lg:max-w-none mx-auto object-cover"
+              className="w-[85%] lg:w-[75%] h-auto rounded-xl shadow-2xl max-w-[450px] mx-auto object-cover"
             />
           </div>
         </div>
